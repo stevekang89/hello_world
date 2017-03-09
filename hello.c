@@ -5,5 +5,5 @@
 main()
 {
     printf("Hello World");
-
+    sleep(1);
 }
